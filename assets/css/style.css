@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 7vh;
+    background-color:  black;
+}  
+.boot
+{
+color: whitesmoke;
+padding-left: 90px;
+float:bottom;
+
+}
+.rigth-side{
+    color:;
+    float: right;
+}
+.sec1
+{
+    width: 100%;
+    height: 45vh;
+    background-color: rgb(73, 83, 222);
+
+}
+.sd1{
+    color: whitesmoke;
+}
+.h1{
+    padding: 10px;
+
+}
+.p{
+    padding: 0.5px;
+}
+.butt{
+    margin: 50px;
+    padding: 15px;
+    border-radius: 15px;
+    border-color: whitesmoke;
+}
+.sec2
+{
+    width: 100%;
+    height: 50vh;
+    background-color: white;
+}
+.sd2
+{
+padding: 70px;
+}
+.p2{
+    padding: 10px;
+}
+.ul li {
+    padding:2px;
+ 
+}
+.sec3
+{
+    width: 100%;
+    height: 50vh;
+    background-color: lightgray;
+    padding-top: 120px;
+}
+.p3{
+  
+   padding-top: 15px;
+}
+.sec4
+{
+    width: 100%;
+    height: 50vh;
+    padding-top: 50px; 
+    margin: 40px;
+    margin-right: 60px;
+
+}
+.p4{
+    padding-top: 30px;
+}
+.footer
+{
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+}
+.h2{
+    color: whitesmoke;
+    padding-top: 20px;
+}
